@@ -139,7 +139,7 @@
     "last 1 Safari versions"
   ],
   "devDependencies": {
-    "@sourcegraph/prettierrc": "^3.0.0",
+    "@sourcegraph/prettierrc": "^3.0.1",
     "@sourcegraph/tsconfig": "^4.0.0",
     "@sourcegraph/tslint-config": "^12.3.1",
     "@types/mkdirp-promise": "5.0.0",
@@ -154,7 +154,7 @@
   "dependencies": {
     "@sourcegraph/basic-code-intel": "6.0.16",
     "@sourcegraph/vscode-ws-jsonrpc": "0.0.3-fork",
-    "prettier": "^1.16.4",
+    "prettier": "^1.17.1",
     "rxjs": "^6.3.3",
     "sourcegraph-langserver-http": "https://github.com/sourcegraph/sourcegraph-langserver-http#0b0173feef37d1f4f68d881c95ac3f4c97bfedb3",
     "tagged-template-noop": "^2.1.0",
