@@ -146,7 +146,7 @@
     "concurrently": "^4.1.0",
     "lnfs-cli": "^2.1.0",
     "mkdirp-promise": "^5.0.1",
-    "parcel-bundler": "^1.11.0",
+    "parcel-bundler": "^1.12.3",
     "sourcegraph": "^23.0.0",
     "tslint": "^5.15.0",
     "typescript": "^3.1.6"
